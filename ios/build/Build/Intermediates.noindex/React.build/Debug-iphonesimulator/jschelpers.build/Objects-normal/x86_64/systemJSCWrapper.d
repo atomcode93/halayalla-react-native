@@ -1,0 +1,3 @@
+dependencies: \
+  /ReactNative/hycontractors/node_modules/react-native/ReactCommon/jschelpers/systemJSCWrapper.cpp \
+  /ReactNative/hycontractors/node_modules/react-native/React/../ReactCommon/jschelpers/JSCWrapper.h
